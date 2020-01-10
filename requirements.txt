@@ -1,0 +1,9 @@
+apiai==1.2.3
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.8
+numpy==1.18.1
+requests==2.22.0
+six==1.13.0
+urllib3==1.25.7
+vk-api==11.6.1
